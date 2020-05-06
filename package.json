@@ -1,0 +1,23 @@
+{
+  "name": "fujio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai-fujio/fujio.git"
+  },
+  "author": "tai-fujio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tai-fujio/fujio/issues"
+  },
+  "homepage": "https://github.com/tai-fujio/fujio#readme",
+  "private": false,
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
